@@ -313,6 +313,6 @@ This project demonstrates how Jenkins shared libraries can be used to build a ce
 
 ## 📂 Repositories
 
-* Shared Library Repo
-* app-1 Repo
-* app-2 Repo
+* Shared Library Repo (https://github.com/Arjun-Nalge/jenkins-shared-library.git)
+* app-1 Repo (https://github.com/Arjun-Nalge/app-1.git)
+* app-2 Repo (https://github.com/Arjun-Nalge/app-2.git)
