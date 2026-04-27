@@ -302,7 +302,6 @@ Deploying application...
 * Multiple pipelines running successfully
 * Same pipeline stages for all applications
 * Shared library enforced across projects
-Centralized-CI-CD-Platform-using-Jenkins-Shared-Library/Screenshot 2026-04-23 114108.png
 ---
 
 ## 🚀 Conclusion
