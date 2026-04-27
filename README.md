@@ -303,8 +303,6 @@ Deploying application...
 * Same pipeline stages for all applications
 * Shared library enforced across projects
 
-https://github.com/Arjun-Nalge/Centralized-CI-CD-Platform-using-Jenkins-Shared-Library/blob/1bf0dc97c836e6512fe51c4c7a4903075d25c311/Screenshot%202026-04-23%20114108.png
-
 ---
 
 ## 🚀 Conclusion
@@ -318,3 +316,7 @@ This project demonstrates how Jenkins shared libraries can be used to build a ce
 * Shared Library Repo (https://github.com/Arjun-Nalge/jenkins-shared-library.git)
 * app-1 Repo (https://github.com/Arjun-Nalge/app-1.git)
 * app-2 Repo (https://github.com/Arjun-Nalge/app-2.git)
+
+Screenshot 2026-04-23 114108.png
+
+https://github.com/Arjun-Nalge/Centralized-CI-CD-Platform-using-Jenkins-Shared-Library/blob/1bf0dc97c836e6512fe51c4c7a4903075d25c311/Screenshot%202026-04-23%20114108.png
