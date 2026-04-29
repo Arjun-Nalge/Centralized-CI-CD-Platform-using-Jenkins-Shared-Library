@@ -304,6 +304,7 @@ Deploying application...
 * Shared library enforced across projects
 
 ![image alt](https://github.com/Arjun-Nalge/Centralized-CI-CD-Platform-using-Jenkins-Shared-Library/blob/0cbe795d7c4ca58031c1d795b6bdcd16d839b52c/Screenshot%202026-04-23%20114108.png)
+![image alt](https://github.com/Arjun-Nalge/Centralized-CI-CD-Platform-using-Jenkins-Shared-Library/blob/2c8184592fa04455f14b1b8447ac805d6113a578/Screenshot%202026-04-23%20114422.png)
 
 ---
 
