@@ -316,3 +316,11 @@ This project demonstrates how Jenkins shared libraries can be used to build a ce
 * Shared Library Repo (https://github.com/Arjun-Nalge/jenkins-shared-library.git)
 * app-1 Repo (https://github.com/Arjun-Nalge/app-1.git)
 * app-2 Repo (https://github.com/Arjun-Nalge/app-2.git)
+
+---
+
+## Author
+Arjun Nalge - DevOps Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/arjun-nalge-313642398)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Arjun-Nalge/Arjun-Nalge.git)
